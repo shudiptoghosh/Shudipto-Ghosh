@@ -13,9 +13,9 @@ Welcome to my GitHub! I’m a passionate programmer and tech enthusiast from Ban
 ---
 
 ## Skills
-- **Programming Languages:** C, C++, Python, JavaScript  
-- **Web & Frameworks:** Django, HTML, CSS, Bootstrap  
-- **Database:** MySQL, SQLite  
+- **Programming Languages:** C, C++, Python
+- **Web & Frameworks:** Django 
+- **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code  
 
 ---
@@ -32,9 +32,8 @@ Welcome to my GitHub! I’m a passionate programmer and tech enthusiast from Ban
 ## Projects
 Here are a few projects from my GitHub that I’m proud of:
 
-1. **[Salinity-Sentinel-A-Smart-Soil-Monitoring-System](https://github.com/shudiptoghosh/Salinity-Sentinel-A-Smart-Soil-Monitoring-System-for-Coastal-Bangladesh-main)** – Smart soil monitoring system for coastal Bangladesh.  
-2. **[Other Project Name](#)** – Add short description.  
-3. **[Other Project Name](#)** – Add short description.  
+1. **[Salinity-Sentinel-A-Smart-Soil-Monitoring-System](https://github.com/shudiptoghosh/Salinity-Sentinel-A-Smart-Soil-Monitoring-System-for-Coastal-Bangladesh)** – Smart soil monitoring system for coastal Bangladesh.  
+2. **[Other Project Name](https://github.com/shudiptoghosh/Puzel-Fusion-Game)** – Puzel Fusion Game. 
 
 ---
 
